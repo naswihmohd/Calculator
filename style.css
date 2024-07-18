@@ -1,0 +1,60 @@
+
+
+.container{
+    width: 500px;
+    height: 600px;
+    background-color: rgb(35, 7, 100);
+    margin-left: 400px;
+    margin-top: 50px;
+    border-radius: 30px;
+    border: solid 5px black;
+}
+.clear-sec button{
+    width: 80px;
+    height: 30px;
+    margin-top:20px;
+    margin-left:11% ;
+    background-color: rgb(101, 101, 105);
+    border-radius: 5px;
+    font-weight: bold;
+    color: aliceblue;
+    border: none;
+}
+#screen{
+    width: 80%;
+    height: 50px;
+    margin-left: 9%;
+    margin-top: 50px;
+    border: solid 3px black;
+    pointer-events: none;
+    font-weight: bold;
+    font-size: 25px;
+}
+.button-sec button{
+    width: 60px;
+    height: 60px;
+    margin-left: 10%;
+    margin-top: 5%;
+    background-color: rgb(96, 198, 121);
+    font-weight: bold;
+    border-radius: 50px;
+    border: none;
+    font-size: 20px;
+}
+.button-secc button{
+    width: 60px;
+    height: 60px;
+    margin-left: 10%;
+    margin-top:7% ;
+    background-color: rgb(96, 198, 121);
+    font-weight: bold;
+    border-radius: 50px;
+    border: none;
+    font-size: 20px;
+
+}
+
+button:hover{
+    background-color: rgb(4, 78, 53);
+    color: aliceblue;
+}
